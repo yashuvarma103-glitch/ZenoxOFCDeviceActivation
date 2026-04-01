@@ -16,5 +16,11 @@
         "key": "KEY-1D-BAIBSO",
         "expirydate": "2-04-2026",
         "Allowoffline": false
-    }
+    },
+        {
+        "device_id": "06d1743191353df1",
+        "key": "KEY-1D-BAIBSO",
+        "expirydate": "2-04-2026",
+        "Allowoffline": false
+    },
 ]
